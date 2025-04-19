@@ -18,6 +18,7 @@ The dataset used in this project is available at:
 
 
 Visualisation Results
+
 ![Smooth Traffic 1](data_process/smooth_traffic_1.gif)
 ![Smooth Traffic 1](data_process/smooth_traffic_2.gif)
 ![Smooth Traffic 1](data_process/congestion1.gif)
