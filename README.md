@@ -3,7 +3,7 @@ Safety_critical_scenario_generation with diffusion in transformer using pytorch
 
 > ⚠️ This project is currently under development.  
 > The code is not fully organized or finalized yet.  
-> Some parts of the implementation may be temporary, experimental, or adapted from open-source projects.
+> Some parts of the implementation are experimental.
 
 ## 📌 Disclaimer
 
